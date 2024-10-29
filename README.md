@@ -4,3 +4,12 @@ A spooky ghost generator for [Codecademy's Spooktober Code Challenge](https://co
 ---
 
 Basically generates a different ghost everytime it is ran. 
+Run the file with the command:
+```
+python spooky_ghost.py
+```
+To generate ghosts!
+
+Example of output:
+
+![Example Ghost](https://i.imgur.com/sHIM9ao.png)
